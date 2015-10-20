@@ -1,0 +1,23 @@
+T1	PL 55 65	javascript
+T3	API 370 379	CharLimit
+T4	Fram 1174 1180	jQuery
+T5	Fram 1559 1565	jQuery
+T6	Fram 1643 1649	jQuery
+T7	Fram 1698 1704	jquery
+T8	Fram 1797 1803	jquery
+T9	MISC 1846 1853	firefox
+T10	PL 1857 1860	css
+T11	PL 1985 1988	css
+T13	API 2415 2427	window.event
+T17	API 318 331	jquery plugin
+T2	PL 795 797	js
+T18	API 985 994	onKeyDown
+T19	API 997 1011	onKeyUp events
+T20	API 1182 1192	onDomReady
+T21	MISC 1267 1270	IE7
+T22	MISC 1275 1278	FF3
+T23	Orgs 1834 1841	mozilla
+T12	API 2439 2447	.keyCode
+T14	API 2460 2466	.which
+T15	API 2478 2484	.which
+T16	API 1660 1667	keyDown

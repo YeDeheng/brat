@@ -1,0 +1,5 @@
+T1	PL 0 4	Java
+T2	PL 94 98	Java
+T8	API 728 742	BufferedImages
+T9	API 1103 1116	BufferedImage
+T3	API 993 1004	getGraphics
