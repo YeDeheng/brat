@@ -1,2 +1,0 @@
-printf() c++ system.out.print is an API.
-Wolff, currently a journalist in Argentina, played with Del Bosque in the final years of the seventies in Real Madrid.
