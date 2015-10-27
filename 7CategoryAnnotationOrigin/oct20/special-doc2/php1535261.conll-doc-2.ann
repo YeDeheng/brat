@@ -1,0 +1,12 @@
+T3	PL 1564 1569	MySql
+T4	PL 1890 1895	MySql
+T5	Orgs 2069 2075	Apache
+T8	PL 3613 3619	python
+T9	PL 3624 3627	php
+T2	Fram 2470 2475	Redis
+T6	Fram 3461 3466	Redis
+T7	MISC 912 922	beanstalkd
+T10	MISC 926 934	gearmand
+T11	Plat 1273 1282	AppEngine
+T1	MISC 1382 1391	DataStore
+T12	MISC 1396 1408	transactions

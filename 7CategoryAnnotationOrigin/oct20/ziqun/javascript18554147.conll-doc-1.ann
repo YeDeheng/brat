@@ -1,0 +1,7 @@
+T1	API 29 43	require.config
+T2	Fram 124 130	jQuery
+T4	API 421 437	require.config()
+T5	API 1140 1147	main.js
+T10	Stan 90 100	AMD module
+T11	Fram 161 175	jQuery plugins
+T3	API 810 827	jquery-wrapper.js
